@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusBay</string>
+    <string name="city">Select City</string>
+    <string name="about">
+        This is an apllication made by .pvt.ltd. Rate d 4.3 stars by GOOGLE PLAY.
+    </string>
+</resources>

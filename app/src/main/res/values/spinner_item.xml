@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_array">
+        <item>Chandigarh</item>
+
+        <item>Bikaner</item>
+    </string-array>
+    <string-array name="from_array">
+        <item>kharar</item>
+        <item>mohali</item>
+        <item>sector 14</item>
+        <item>sector 15</item>
+        <item>sector 17</item>
+        <item>sector 20</item>
+        <item>sector 43</item>
+    </string-array>
+    <string-array name="from_array1">
+        <item>murlidhar</item>
+        <item>city</item>
+        <item>mukta prasad</item>
+        <item>baheti chowk</item>
+        <item>gopeshwar basti</item>
+        <item>gangashahar</item>
+        <item>lalgarh</item>
+        <item>kotegate</item>
+        <item>junagarh</item>
+        <item>jnv</item>
+
+    </string-array>
+
+
+
+</resources>
